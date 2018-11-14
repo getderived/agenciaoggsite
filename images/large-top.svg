@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1429px" height="515px" viewBox="0 0 1429 515" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vector-effect:non-scaling-stroke;">
+  <style><![CDATA[ * { vector-effect: inherit; } ]]></style>
+
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Large</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="369 133 459 133 459 43 369 43"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="90" height="90" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M709,254 C709,302.601268 669.600418,342 621,342 C572.398732,342 533,302.601268 533,254 C533,205.398732 572.398732,166 621,166 C669.600418,166 709,205.398732 709,254 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="176" height="176" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Artboard-Copy-107" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-787.000000, -206.000000)">
+        <g id="Large" transform="translate(787.000000, 206.000000)">
+            <g id="Group-7" stroke-width="1" fill-rule="evenodd" transform="translate(527.000000, 88.000000)" stroke="#63636A">
+                <polyline id="Stroke-7" stroke-width="2" points="6.82121026e-13 332.262917 95.3417496 332.262917 95.3417496 280"></polyline>
+                <polyline id="Stroke-7-Copy-3" stroke-width="2" points="96 51.7949219 96 0 -1.13686838e-13 0"></polyline>
+            </g>
+            <path d="M1525,254 L733,254" id="Stroke-7" stroke="#63636A" stroke-width="2" stroke-dasharray="4,4"></path>
+            <path d="M327,175 L501,175 L501,1 L327,1 L327,175 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+            <use id="Stroke-1" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="4" xlink:href="#path-1"></use>
+            <g id="Group-3" stroke-width="1" fill-rule="evenodd" transform="translate(17.000000, 332.000000)">
+                <rect id="Rectangle-14-Copy-2" fill="#FF2F2F" transform="translate(87.669048, 87.669048) rotate(-225.000000) translate(-87.669048, -87.669048) " x="22.6690476" y="86.6690476" width="130" height="2"></rect>
+                <path d="M175,88 C175,39.9513118 136.048428,1 88,1 C39.9510165,1 1,39.9510165 1,88 C1,136.048984 39.9510165,175 88,175 C136.048428,175 175,136.048688 175,88 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="2" transform="translate(88.000000, 88.000000) rotate(-540.000000) translate(-88.000000, -88.000000) "></path>
+            </g>
+            <g id="Group-2" stroke-width="1" fill-rule="evenodd">
+                <path d="M105.245902,1.95182443 L1.76316204,175 L208.241099,175 L105.245902,1.95182443 Z" id="Stroke-5" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M145,114 C145,136.091486 127.091099,154 105,154 C82.9085144,154 65,136.091486 65,114 C65,91.9085144 82.9085144,74 105,74 C127.091099,74 145,91.9085144 145,114 Z" id="Stroke-3-Copy" stroke="#FF2F2F" stroke-width="2"></path>
+            </g>
+            <g id="Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(326.000000, 325.000000)">
+                <path d="M175,141.902829 L175,48.0964182 L87.9995971,1.13637682 L1,48.0964156 L1,141.902832 L87.9995971,188.863619 L175,141.902829 Z" id="Stroke-4" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M133,95 C133,119.852921 112.852486,140 88,140 C63.1470787,140 43,119.852921 43,95 C43,70.1470787 63.1470787,50 88,50 C112.852486,50 133,70.1470787 133,95 Z" id="Stroke-3-Copy-2" stroke="#FF2F2F" stroke-width="2"></path>
+            </g>
+            <g id="Group-6-Copy" stroke-width="1" fill-rule="evenodd" transform="translate(211.000000, 378.000000)" stroke="#63636A">
+                <g id="Group" stroke-width="2">
+                    <polyline id="Stroke-6" points="46 0 88 41.999594 46 84"></polyline>
+                    <path d="M88,42 L0,42" id="Stroke-7"></path>
+                </g>
+            </g>
+            <g id="Group-6-Copy-2" stroke-width="1" fill-rule="evenodd" transform="translate(211.000000, 46.000000)" stroke="#63636A">
+                <g id="Group" stroke-width="2">
+                    <polyline id="Stroke-6" points="46 0 88 41.999594 46 84"></polyline>
+                    <path d="M88,42 L0,42" id="Stroke-7"></path>
+                </g>
+            </g>
+            <g id="Group-5" stroke-width="1" fill-rule="evenodd" transform="translate(63.000000, 203.000000)" stroke="#63636A">
+                <polyline id="Stroke-11" stroke-width="2" points="351 0 351 33 42 33 42 101"></polyline>
+                <polyline id="Stroke-6" stroke-width="2" transform="translate(42.000000, 81.000000) rotate(-270.000000) translate(-42.000000, -81.000000) " points="21 39 63 80.999594 21 123"></polyline>
+            </g>
+            <use id="Stroke-3" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="4" stroke-dasharray="4,4" transform="translate(621.000000, 254.000000) rotate(-540.000000) translate(-621.000000, -254.000000) " xlink:href="#path-3"></use>
+            <path d="M582,293 L660,293 L660,215 L582,215 L582,293 Z" id="Stroke-1-Copy" stroke="#D0021B" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

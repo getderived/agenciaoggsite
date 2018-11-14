@@ -1,0 +1,27 @@
+<svg width="76px" height="116px" viewBox="0 0 76 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vector-effect:non-scaling-stroke;">
+  <style><![CDATA[ * { vector-effect: inherit; } ]]></style>
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>AI</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="38" cy="38" r="27"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="54" height="54" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle id="path-3" cx="38" cy="38" r="5"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AI">
+            <path d="M31.963297,116 L36.265297,103.13 L39.397297,103.13 L43.645297,116 L41.161297,116 L40.135297,112.814 L35.221297,112.814 L34.213297,116 L31.963297,116 Z M37.687297,105.092 L35.779297,111.068 L39.577297,111.068 L37.687297,105.092 Z M45.679297,116 L45.679297,103.13 L48.091297,103.13 L48.091297,116 L45.679297,116 Z" fill="#FFFFFF"></path>
+            <g id="Group-6-Copy-3">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="38" cy="38" r="37"></circle>
+                <use id="Oval" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="3,3" xlink:href="#path-1"></use>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="38" cy="38" r="15"></circle>
+                <g id="Oval">
+                    <use fill="#3D3D45" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#FF2F2F" stroke-width="2" cx="38" cy="38" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

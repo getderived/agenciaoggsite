@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="424px" height="40px" viewBox="0 0 424 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>divider2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-Copy-22" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-101.000000, -3923.000000)">
+        <g id="Group-13" transform="translate(101.000000, 3396.000000)">
+            <g id="divider2" transform="translate(0.000000, 527.000000)">
+                <g id="Group-8">
+                    <g id="Group-11">
+                        <circle id="Oval-2-Copy-2" stroke="#63636A" stroke-width="2" cx="212" cy="20" r="19"></circle>
+                        <rect id="Rectangle-9-Copy-2" fill="#63636A" transform="translate(212.000000, 20.000000) rotate(-225.000000) translate(-212.000000, -20.000000) " x="211" y="0" width="2" height="40"></rect>
+                        <rect id="Rectangle-10" stroke="#63636A" stroke-width="2" x="97" y="1" width="38" height="38"></rect>
+                        <rect id="Rectangle-3" fill="#63636A" x="115" y="0" width="2" height="20"></rect>
+                        <polygon id="Rectangle-9-Copy-2" fill="#63636A" transform="translate(116.000000, 20.000000) rotate(-270.000000) translate(-116.000000, -20.000000) " points="115 1 117 0 117 40 115 40"></polygon>
+                        <rect id="Rectangle" fill="#63636A" x="0" y="0" width="40" height="2"></rect>
+                        <rect id="Rectangle-Copy" fill="#63636A" x="0" y="25" width="40" height="2"></rect>
+                        <rect id="Rectangle-Copy-2" fill="#63636A" x="0" y="13" width="40" height="2"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#63636A" x="0" y="38" width="40" height="2"></rect>
+                        <rect id="Rectangle-2" fill="#63636A" x="326" y="0" width="2" height="40"></rect>
+                        <rect id="Rectangle-2-Copy" fill="#63636A" x="288" y="0" width="2" height="40"></rect>
+                        <rect id="Rectangle-2-Copy-2" fill="#63636A" x="301" y="0" width="2" height="40"></rect>
+                        <rect id="Rectangle-2-Copy-3" fill="#63636A" x="313" y="0" width="2" height="40"></rect>
+                        <circle id="Oval-2-Copy-3" stroke="#63636A" stroke-width="2" cx="404" cy="20" r="19"></circle>
+                        <rect id="Rectangle-13" stroke="#63636A" stroke-width="2" x="398" y="14" width="12" height="12"></rect>
+                        <rect id="Rectangle-14-Copy" fill="#3D3D45" x="136" y="0" width="56" height="40"></rect>
+                        <rect id="Rectangle-14-Copy-3" fill="#3D3D45" x="232" y="0" width="56" height="40"></rect>
+                        <rect id="Rectangle-14-Copy-4" fill="#3D3D45" x="328" y="0" width="56" height="40"></rect>
+                        <rect id="Rectangle-14-Copy-2" fill="#3D3D45" x="40" y="0" width="56" height="40"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,464 @@
+@keyframes fadeInToBlack {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Graphik Web";
+    src: url(../type/Graphik-Regular-Web.woff2) format("woff2"),
+         url(../type/Graphik-Regular-Web.woff) format("woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Graphik Web";
+    src: url(../type/Graphik-Medium-Web.woff2) format("woff2"),
+         url(../type/Graphik-Medium-Web.woff) format("woff");
+    font-weight: 500;
+}
+
+html {
+  animation: fadeInToBlack 1.5s ease;
+  padding: 134px 0 72px 0;
+}
+
+body {
+  background-color: #3D3D45;
+  color: #fcfcfc;
+  font: 2em/1.5em  "Graphik Web", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+/* LAYOUT -------------------------------- */
+
+.container {
+    max-width: 1100px;
+    padding:  0 36px;
+}
+
+header {
+    background: url('../images/logo') 0 0 no-repeat;
+    margin-bottom: 136px;
+    padding-top: 170px;
+}
+
+.divider {
+    background: url('../images/divider.svg') 0 0 no-repeat;
+    height: 40px;
+    margin-bottom: 136px;
+}
+
+.divider-alt {
+    background-image: url('../images/divider2.svg');
+}
+
+/* GLOBAL -------------------------------- */
+
+a:link, a:visited {
+    border-bottom: 2px solid #EB3031;
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    border-bottom: 2px solid #EB3031;
+    color: #EB3031;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 150%;
+    font-weight: 500;
+    line-height: 1.23em;
+    margin-bottom: 56px;
+    max-width: 900px;
+}
+
+h2 {
+    font-size: 100%;
+    font-weight: 500;
+    margin-bottom: 72px;
+    max-width: 1000px;
+}
+
+h3 {
+    color: #9E9EA2;
+    font-size: 75%;
+    font-weight: 400;
+    line-height: 1.6em;
+    margin-bottom: 0;
+    max-width: 1000px;
+}
+
+h4 {
+    font-size: 100%;
+    font-weight: 500;
+    margin-bottom: 0;
+    max-width: 1000px;
+}
+
+p { max-width: 1000px;}
+
+/* WHAT WE DO -------------------------------- */
+
+#do { padding-bottom: 136px; }
+
+#do p { margin-bottom: 72px; }
+
+#do p:last-child  { margin-bottom: 0; }
+
+/* EXPERTISE -------------------------------- */
+
+#expertise {
+    padding-bottom: 136px;
+}
+
+#expertise ul {
+    width: 100%;
+    margin-bottom: 36px;
+    list-style-type: none;
+}
+
+#expertise li {
+    background-position: top 40px left 50%;
+    font-weight: 500;
+    height: 224px;
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+    border: 1px solid #505057;
+    margin-left: -1px;
+    margin-bottom: -1px;
+}
+
+#expertise li span {
+  display: block;
+  height: auto;
+  position: relative;
+  top: 145px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  font-size: 50%;
+}
+
+.fintech {
+  background: url('../images/Fintech.svg') no-repeat;
+}
+.blockchain {
+  background: url('../images/Blockchain.svg') no-repeat;
+}
+.consumer {
+  background: url('../images/Consumer.svg') no-repeat;
+}
+.robotics {
+  background: url('../images/Robotics.svg') no-repeat;
+}
+.commerce {
+  background: url('../images/Commerce.svg') no-repeat;
+}
+.ai {
+  background: url('../images/AI.svg') no-repeat;
+}
+
+/* CLIENTS -------------------------------- */
+
+#clients {
+    background-color: #33333A;
+    margin-bottom: 136px;
+    padding: 136px 50px;
+}
+
+#clients div {
+    max-width: 1100px;
+}
+
+#clients ul {
+    margin-bottom: 36px;
+    width: 100%;
+    list-style-type: none;
+}
+
+#clients li {
+  background-position: top 50% left 50%;
+  border-collapse: collapse;
+  border: 1px solid #505057;
+  display: block;
+  height: 224px;
+  margin: 0;
+  padding: 0;
+  margin-left: -1px;
+  margin-bottom: -1px;
+  text-indent: -9999px;
+}
+
+.igpa {
+  background: url('../images/igpa.png') no-repeat;
+}
+.maersk {
+  background: url('../images/maersk.png') no-repeat;
+}
+.iok {
+  background: url('../images/iok.png') no-repeat;
+}
+.assai {
+  background: url('../images/assai.png') no-repeat;
+}
+.citrosuco {
+  background: url('../images/citrosuco.png') no-repeat;
+}
+.extra {
+  background: url('../images/extra.png') no-repeat;
+}
+
+
+/* FINALE -------------------------------- */
+
+#about {
+    padding-bottom: 85px;
+}
+
+#about p {
+    margin-bottom: 52px;
+}
+
+#contact {
+    font-size: 75%;
+    line-height: 1.5em;
+}
+
+#contact p { margin-bottom: 0; }
+
+#address {
+    margin-bottom: 48px;
+}
+
+#phone-email {
+    margin-bottom: 72px;
+}
+
+#foot {
+    color: #7B7B82;
+    font-size: 56%;
+    letter-spacing: 1px;
+    line-height: 1.3;
+    margin-bottom: 0;
+}
+
+/* MOBILE -------------------------------- */
+
+
+@media (max-width: 800px) {
+
+
+  header {
+    margin-bottom: 68px;
+  }
+
+  header p {
+    font-size: 60%;
+    line-height: 140%;
+  }
+
+  .divider {
+    margin-bottom: 68px;
+    width: 232px;
+  }
+
+  h1 {
+    font-size: 100%;
+  }
+
+  h2 {
+    font-size: 60%;
+    line-height: 150%;
+  }
+
+  h3 {font-size: 60%;}
+
+  #do {
+    padding-bottom: 68px;
+  }
+
+  #expertise {
+    padding-bottom: 68px;
+  }
+
+  #clients {
+    padding: 68px 36px;
+    margin-bottom: 68px;
+  }
+
+  #about {
+    padding-bottom: 12px;
+  }
+
+  #do p {
+    font-size: 60%;
+    line-height: 140%;
+  }
+
+  #expertise p {
+    font-size: 60%;
+    line-height: 140%;
+  }
+
+  #clients p {
+    font-size: 60%;
+    line-height: 140%;
+  }
+
+  #about p {
+    font-size: 60%;
+    line-height: 140%;
+  }
+
+  #contact p,h4 {
+    font-size: 75%;
+    line-height: 140%;
+  }
+
+  #foot { font-size: 45%; }
+
+}
+
+@media (max-width: 1200px) {
+
+  header {
+    padding-top: calc(260px + 18vw);
+  }
+}
+
+@media (max-width: 650px) {
+
+  html {
+    padding: 36px 0 72px 0;
+  }
+
+/*  h1 {
+    font-size: 90%;
+  }
+
+  h2 {
+    font-size: 80%
+    line-height:160;
+  }*/
+}
+
+/* LARGER THAN MOBILE -------------------------------- */
+
+@media (min-width: 600px)  {
+
+  #clients ul, #expertise ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  #clients li, #expertise li {
+    width: 49%;
+    display: flex;
+    margin-left: -1px;
+    margin-bottom: -1px;
+  }
+
+}
+
+/* EVEN BIGGER -------------------------------- */
+
+@media (min-width: 800px) {
+
+  body {
+      position: relative;
+      text-align: center;
+  }
+
+  .container, #clients {
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 100px;
+      padding-right: 100px;
+      text-align: left;
+  }
+
+  #clients div {
+      margin: 0 auto;
+  }
+
+  #expertise li {
+    width: 33%;
+  }
+
+  #address, #phone-email {
+      float: left;
+      width: 50%;
+  }
+
+  #foot {
+      clear: both;
+  }
+
+}
+
+/* REAL BIG -------------------------------- */
+
+
+@media (max-width: 1199px) {
+
+  .smallGraph {
+      background: url(../images/header.svg) no-repeat;
+      background-position: left top 170px;
+      background-size: 100vw;
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+    h1 { padding-right: 370px; }
+
+    #process {
+        background: url(../images/large-top.svg) 0 center no-repeat;
+        height: 520px;
+        right: 0;
+        position: absolute;
+        top: -14px;
+        width: 410px;
+    }
+
+     #clients li {
+         width: 33%;
+    }
+
+}
+
+@media (min-width: 1600px) {
+    h1 { padding-right: 200px; }
+}
+
+@media (min-width: 2000px) {
+    h1 { padding-right: 0; }
+}
+
+@media (min-width: 2100px) {
+    #process { width: 615px; }
+}
+
+@media (min-width: 2700px) {
+    #process { width: 1000px; }
+}
+
+@media (min-width: 3200px) {
+    #process { width: 1250px; }
+}
