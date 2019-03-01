@@ -32,7 +32,7 @@ html {
 }
 
 body {
-  background-color: #3D3D45;
+  background-color: #0C060C;
   color: #fcfcfc;
   font: 2em/1.5em  "Graphik Web", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
@@ -175,7 +175,7 @@ p { max-width: 1000px;}
 /* CLIENTS -------------------------------- */
 
 #clients {
-    background-color: #33333A;
+    background-color: #0C060C;
     margin-bottom: 136px;
     padding: 136px 50px;
 }
@@ -203,22 +203,22 @@ p { max-width: 1000px;}
   text-indent: -9999px;
 }
 
-.igpa {
-  background: url('../images/igpa.png') no-repeat;
+.lifenroll {
+  background: url('../images/lifenroll.png') no-repeat;
 }
-.maersk {
-  background: url('../images/maersk.png') no-repeat;
+.thebridge {
+  background: url('../images/thebridge.png') no-repeat;
 }
-.iok {
-  background: url('../images/iok.png') no-repeat;
+.lab123 {
+  background: url('../images/lab123.png') no-repeat;
 }
-.assai {
+.fabapp {
   background: url('../images/assai.png') no-repeat;
 }
-.citrosuco {
+.dop {
   background: url('../images/citrosuco.png') no-repeat;
 }
-.extra {
+.medstats {
   background: url('../images/extra.png') no-repeat;
 }
 
